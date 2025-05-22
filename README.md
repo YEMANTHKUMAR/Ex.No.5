@@ -3,9 +3,8 @@
 # EXP 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
 
 
-NAME: Yemanth kumar B
-
-REG NO: 212222060307
+# Date:04-04-25
+# REG NO: 212222060307
 
 
 ## 1. Aim
